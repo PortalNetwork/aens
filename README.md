@@ -4,7 +4,7 @@
 
 ## 📝 Description
 
-WNS is the Aelf Name Service, a distributed, open, and extensible naming system based on the Aelf blockchain.
+AENS is the Aelf Name Service, a distributed, open, and extensible naming system based on the Aelf blockchain.
 
 ## 📚 Documents
 
