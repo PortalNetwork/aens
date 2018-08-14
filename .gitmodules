@@ -1,0 +1,3 @@
+[submodule "wns"]
+	path = wns
+	url = https://github.com/wanchain/wns
