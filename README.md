@@ -1,6 +1,6 @@
 # Aelf Name Service
 
-> 📖🔍 Documents and implementations for the Aelf Name Service.
+> 📖🔍 Documents of the Aelf Name Service.
 
 ## 📝 Description
 
