@@ -19,8 +19,9 @@ dotnet build --configuration Release
 ```
 
 If this successfully completes, you should see `0 Error(s)`. You will see some warnings but that’s normal and you can safely ignore them.
-
-
+  
+You will see the image after successful build.  
+![https://i.imgur.com/prBN16D.jpg](https://i.imgur.com/prBN16D.jpg)
 
 ## FAQ
 
