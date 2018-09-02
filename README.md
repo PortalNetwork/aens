@@ -5,6 +5,10 @@
 ## 💡 What is BNS?
 BNS – or blockchain name system – is the protocol on the internet that turns human-comprehensible decentralized website names such as ‘website.elf’ or ‘mywebsite.eth’ into addresses understandable by decentralized network machines.
 
+## 💡 What is Aelf?
+Aelf is a customizable operating system for blockchains, and the project attempting to be the “Linux” of the blockchain community.   
+Aelf is poised to be the Blockchain network with a decentralized cloud computing platform to facilitate the commercial needs of businesses and mainstream institutions. This means that the company acts as a central hub for other Blockchains where full nodes on high performing cloud servers, segregate resources such that each smart contract runs on its own Blockchain and the ELF token is used as a utility for representation and decision making. Aelf claims to be the turn-key solution that will realize Blockchain’s utility in the physical business world.
+
 ## 📝 Description
 
 AENS is the Aelf Name Service, a distributed, open, and extensible naming system based on the Aelf blockchain.
