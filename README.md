@@ -21,6 +21,7 @@ AENS is the Aelf Name Service, a distributed, open, and extensible naming system
 #### Guideline
 - [Install aelf on Mac OS](./docs/INSTALL.md)
 - [Run with Docker](./docs/DOCKER.md)
+- [Smart Contract Deploy](./docs/SMART_CONTRACT.md)
 
 ## 🗃 Changelog
 See [CHANGELOG.md](./CHANGELOG.md)
