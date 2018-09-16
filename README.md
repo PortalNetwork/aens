@@ -17,6 +17,7 @@ AENS is the Aelf Name Service, a distributed, open, and extensible naming system
 
 #### Table of Contents
 - [Introduction](./docs/INTRODUCTION.md)
+- [Implementation](./docs/IMPLEMENTATION.md)
 
 #### Guideline
 - [Install aelf on Mac OS](./docs/INSTALL.md)
